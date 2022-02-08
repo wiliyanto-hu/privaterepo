@@ -1,6 +1,13 @@
 # privaterepo
 
-### code 
+---
+
+---
+
+---
+
+### code
+
 ```js
-console.log("Thanks")
+console.log("Thanks");
 ```
